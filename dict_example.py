@@ -3,10 +3,10 @@ userdict = {'efr':'Efren Reyes','mki':'Mika Immonen'}
 print userdict['efr']
 print userdict.keys()
 
-test = 'Praveen'
-secondi = ['/home/debug/nms-trunk/build/platform','/home/debug/nms-trunk/build/rpm-platform']
+test = 'DevOps dude'
+secondi = ['/home/debug/master/build/platform','/home/debug/master/build/rpm-platform']
 #print secondi
-secondi.append("/home/tits/%s" % test)
+secondi.append("/home/debug/%s" % test)
 secondi.append("XXXX")
 #print secondi
 
